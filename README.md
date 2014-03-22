@@ -1,4 +1,4 @@
-INF225
+Analysis of Programming Languages
 ======
 
 Information Retrieval Project
